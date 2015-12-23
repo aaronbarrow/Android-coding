@@ -1,2 +1,6 @@
 <TextView
-android:text= "Happy Birthday, Aaron!"
+android:text="Happy Birthday, Aaron!"
+android:background="@android:color/darker_grey"
+android:layout_width="150dp"
+android:layout_height="75dp"  />
+
